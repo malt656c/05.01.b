@@ -9,10 +9,9 @@ body {
   height: 100vh;
 }
 main {
-
   position: absolute;
   width: 100%;
-  background-attachment:fixed;
+  background-attachment: fixed;
   width: 100%;
   aspect-ratio: 16/9;
   background-size: cover;
@@ -117,7 +116,7 @@ p {
 }
 #video {
   display: grid;
-gap: 30px;
+  gap: 30px;
   justify-content: center;
   margin-bottom: 100px;
 }
